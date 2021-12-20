@@ -1,0 +1,15 @@
+
+Devops Lifecycle
+
+Continuous Development   - 	Plan code
+Continuous Testing      -	Build	test
+Continuous Integration	-	Release
+Continuous Deployment	-	Deploy	Operate
+Continuous Monitoring	-	Monitor
+
+
+CD --  Git, SVN, Mercurial, CVS and JIRA
+CT --  Selenium, TestNG, JUnit/ NUnit
+CI --  Jenkins,Bamboo,Hudson
+CD --  Puppet, Chef, Ansible, SaltStack
+CM --  Splunk, ELK Stack, Nagios, Sensu, NewRelic
